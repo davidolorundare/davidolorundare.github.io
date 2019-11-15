@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Notes on David Olorundare</title>
+    <link>https://davidolorundare.com/notes/</link>
+    <description>Recent content in Notes on David Olorundare</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 17 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://davidolorundare.com/notes/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Introducing Ìlékùn - A new UI for Ibadan</title>
+      <link>https://davidolorundare.com/notes/introducing-ilekun/</link>
+      <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidolorundare.com/notes/introducing-ilekun/</guid>
+      <description> WIP </description>
+    </item>
+    
+    <item>
+      <title>The Outreachy Internship Project - Anatomy of Jenkins Builds</title>
+      <link>https://davidolorundare.com/notes/anatomy-of-jenkins-builds/</link>
+      <pubDate>Wed, 16 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidolorundare.com/notes/anatomy-of-jenkins-builds/</guid>
+      <description> WIP </description>
+    </item>
+    
+    <item>
+      <title>The Outreachy Internship Project - User Access and Creation Listeners</title>
+      <link>https://davidolorundare.com/notes/creating-log-listeners/</link>
+      <pubDate>Tue, 15 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidolorundare.com/notes/creating-log-listeners/</guid>
+      <description> WIP </description>
+    </item>
+    
+    <item>
+      <title>The Outreachy Internship Project</title>
+      <link>https://davidolorundare.com/notes/outreachy-jenkins-project/</link>
+      <pubDate>Sat, 05 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidolorundare.com/notes/outreachy-jenkins-project/</guid>
+      <description> WIP </description>
+    </item>
+    
+    <item>
+      <title>The Future of the Games Industry in Africa</title>
+      <link>https://davidolorundare.com/notes/defining-studio-mide/</link>
+      <pubDate>Fri, 04 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidolorundare.com/notes/defining-studio-mide/</guid>
+      <description> WIP </description>
+    </item>
+    
+    <item>
+      <title>Creating another Tech Future for Ibadan</title>
+      <link>https://davidolorundare.com/notes/defining-mide-labs/</link>
+      <pubDate>Thu, 03 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidolorundare.com/notes/defining-mide-labs/</guid>
+      <description> WIP </description>
+    </item>
+    
+    <item>
+      <title>The UI Labs Roadmap for Ibadan</title>
+      <link>https://davidolorundare.com/notes/introducing-ui-labs/</link>
+      <pubDate>Wed, 02 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidolorundare.com/notes/introducing-ui-labs/</guid>
+      <description> WIP </description>
+    </item>
+    
+    <item>
+      <title>The Outreachy Internship - Thinking about Audiences</title>
+      <link>https://davidolorundare.com/notes/thinking-about-audiences/</link>
+      <pubDate>Fri, 21 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidolorundare.com/notes/thinking-about-audiences/</guid>
+      <description> WIP </description>
+    </item>
+    
+    <item>
+      <title>Introducing the &#39;Interface&#39; Podcast</title>
+      <link>https://davidolorundare.com/notes/interface-podcast/</link>
+      <pubDate>Thu, 20 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidolorundare.com/notes/interface-podcast/</guid>
+      <description> WIP </description>
+    </item>
+    
+    <item>
+      <title>MìDÉ&#39;s Vision</title>
+      <link>https://davidolorundare.com/notes/the-vision-of-mide/</link>
+      <pubDate>Mon, 10 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidolorundare.com/notes/the-vision-of-mide/</guid>
+      <description> WIP </description>
+    </item>
+    
+    <item>
+      <title>The Outreachy Internship Program</title>
+      <link>https://davidolorundare.com/notes/applying-to-outreachy/</link>
+      <pubDate>Wed, 05 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidolorundare.com/notes/applying-to-outreachy/</guid>
+      <description>In this blog post, I discuss the application process in my applying to the Outreachy internship program.
+The Motivation The Prevaling Imbalance in &amp;lsquo;Diversity&amp;rsquo; within the Classroom I came to the U.S from my home country, Nigeria, to pursue a Masters degree in Computer Science. As an international student, even though my University provided an inclusive space for people of all backgrounds to collaborate, what always stood out to me in every class I took - more than 20 classes in the over two year period of the degree program - was the abysmal ratio of black students to students of every other color.</description>
+    </item>
+    
+  </channel>
+</rss>

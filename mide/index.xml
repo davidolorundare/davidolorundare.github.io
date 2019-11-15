@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mides on David Olorundare</title>
+    <link>https://davidolorundare.com/mide/</link>
+    <description>Recent content in Mides on David Olorundare</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 14 Aug 2018 06:43:34 -0500</lastBuildDate>
+    
+	<atom:link href="https://davidolorundare.com/mide/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mide</title>
+      <link>https://davidolorundare.com/mide/mide/</link>
+      <pubDate>Tue, 14 Aug 2018 06:43:34 -0500</pubDate>
+      
+      <guid>https://davidolorundare.com/mide/mide/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
